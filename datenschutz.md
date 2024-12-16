@@ -12,6 +12,17 @@ Zuletzt aktualisiert am: 16.12.2024
 
 Wir legen grossen Wert darauf, dass der Umgang mit Personendaten transparent ist. Diese Datenschutzerklärung gibt Auskunft darüber, welche personenbezogenen Daten wir sammeln, zu welchem Zweck und an wen wir sie weitergeben. Um eine hohe Transparenz zu gewährleisten, wird diese Datenschutzerklärung regelmässig überprüft und aktualisiert.
 
+0\. Gültigkeitsbereich
+-----------------------------
+
+* schliengi.ch und alle Subdomains
+* tobilabs.ch und alle Subdomains
+* wuffel.co und alle Subdomains
+* wffl.ink und alle Subdomains
+* furouco.ch und alle Subdomains
+* furou.co und alle Subdomains
+* dakoru.de und alle Subdomains
+* cyancurl.photography und alle Subdomains
 
 
 1\. Welche Dienste wir nutzen

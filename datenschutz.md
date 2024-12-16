@@ -1,4 +1,8 @@
-Datenschutzerklärung
+---
+layout: default
+---
+
+## Datenschutzerklärung
 ====================
 
 

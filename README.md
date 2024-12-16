@@ -4,3 +4,5 @@ See what services are currently online and which ones are experiencing issues. S
 [status.wuffel.co](https://status.wuffel.co)
 ## Wuffel Play
 Come and play with us on our game server platform!
+## Data Protection (German)
+See [this link](https://wuffel.co/datenschutz)!

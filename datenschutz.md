@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## Datenschutzerklärung
-====================
 
 
 

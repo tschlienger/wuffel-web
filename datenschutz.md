@@ -15,14 +15,16 @@ Wir legen grossen Wert darauf, dass der Umgang mit Personendaten transparent ist
 0\. Gültigkeitsbereich
 -----------------------------
 
-* [schliengi.ch](https://schliengi.ch) und alle Subdomains
-* [tobilabs.ch](https://tobilabs.ch) und alle Subdomains
-* [wuffel.co](https://wuffel.co) und alle Subdomains
-* [wffl.ink](https://wffl.ink) und alle Subdomains
-* [furouco.ch](https://furouco.ch) und alle Subdomains
-* [furou.co](https://furou.co) und alle Subdomains
-* [dakoru.de](https://dakoru.de) und alle Subdomains
-* [cyancurl.photography](https://cyancurl.photography) und alle Subdomains
+Diese Datenschutzerklärung gilt für diese Domains uns alle ihre Subdomains:
+
+* [schliengi.ch](https://schliengi.ch)
+* [tobilabs.ch](https://tobilabs.ch)
+* [wuffel.co](https://wuffel.co)
+* [wffl.ink](https://wffl.ink)
+* [furouco.ch](https://furouco.ch)
+* [furou.co](https://furou.co)
+* [dakoru.de](https://dakoru.de)
+* [cyancurl.photography](https://cyancurl.photography)
 
 
 1\. Welche Dienste wir nutzen

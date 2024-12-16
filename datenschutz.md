@@ -41,7 +41,7 @@ Diese Datenschutzerklärung gilt für diese Domains uns alle ihre Subdomains:
 2\. Kontaktinformationen
 ------------------------
 
-Bei Fragen oder Anliegen zum Schutz Ihrer Daten durch uns erreichen Sie uns jederzeit per E-Mail unter tobias@schliengi.ch. Verantwortlich für die Datenbearbeitungen, die über diese Website erfolgen, ist:
+Bei Fragen oder Anliegen zum Schutz Ihrer Daten durch uns erreichen Sie uns jederzeit per E-Mail unter postmaster@schliengi.ch. Verantwortlich für die Datenbearbeitungen, die über diese Website erfolgen, ist:
 
 
 Tobias Schlienger
@@ -49,7 +49,7 @@ Schweiz
 
 **Datenschutzverantwortliche Person:**
 Tobias Schlienger
-tobias@schliengi.ch
+postmaster@schliengi.ch
 
 
 3\. Allgemeine Grundsätze
@@ -153,7 +153,7 @@ Innerhalb unserer Webseite verwenden wir das SSL-Verfahren (Secure Socket Layer)
 
 #### a. Auskunftsrecht
 
-Sie können jederzeit eine Auskunft über die von uns über Sie gespeicherten Daten verlangen. Wir bitten Sie, Ihr Auskunftsgesuch zusammen mit einem Identitätsnachweis an tobias@schliengi.ch zu senden.
+Sie können jederzeit eine Auskunft über die von uns über Sie gespeicherten Daten verlangen. Wir bitten Sie, Ihr Auskunftsgesuch zusammen mit einem Identitätsnachweis an postmaster@schliengi.ch zu senden.
 
 Sie haben ausserdem das Recht, Ihre Daten in einem gängigen Dateiformat zu erhalten, wenn wir Ihre Daten automatisiert bearbeiten, und wenn:
 
